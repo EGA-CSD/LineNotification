@@ -1,0 +1,9 @@
+[Bb]in
+*.exe
+*.pdb
+MailGoThai\ega.Consoles.Test\bin
+MailGoThai\ega.Consoles.Test\Web References
+MailGoThai\ega.Consoles.Test\Service References
+MailGoThai\ega.Consoles.Test\obj
+XMLFile(ReqThenError).xml
+XMLFile2.xml
